@@ -24,3 +24,5 @@ function depth(arr) {
 }
 
 console.log(depth([1, [2, [3, [4]]]]));
+
+
